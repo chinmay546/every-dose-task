@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="9.976" viewBox="0 0 15.71 9.976">
+    <defs>
+        <style>
+            .down-1{fill:none;stroke:#1f2f36;stroke-linecap:round;stroke-linejoin:round;stroke-width:3px}
+        </style>
+    </defs>
+    <g id="chevron_down" transform="rotate(90 552.944 -429.146)">
+        <path id="Line_391" d="M5.734 5.734L0 0" class="down-1" data-name="Line 391" transform="translate(984.211 110.21)"/>
+        <path id="Line_392" d="M5.734 0L0 5.734" class="down-1" data-name="Line 392" transform="translate(984.211 115.943)"/>
+    </g>
+</svg>

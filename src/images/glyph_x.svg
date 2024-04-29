@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+    <defs>
+        <style>
+            .glyphx-1{fill:#d73838;stroke:#d73838;stroke-linecap:round;stroke-miterlimit:10;stroke-width:3px}
+        </style>
+    </defs>
+    <g id="glyph_x" transform="translate(-260.035 -223.589)">
+        <path id="Line_973" d="M8.664 0L0 8.664" class="glyphx-1" data-name="Line 973" transform="translate(262.156 225.71)"/>
+        <path id="Line_974" d="M0 0l8.664 8.664" class="glyphx-1" data-name="Line 974" transform="translate(262.156 225.71)"/>
+    </g>
+</svg>
