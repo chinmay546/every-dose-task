@@ -85,3 +85,8 @@ img {
 .toggle-wrapper {
   display: flex;
 }
+
+.deleted {
+  color: #dad6d6;
+  cursor: not-allowed;
+}
